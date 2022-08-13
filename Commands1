@@ -1,1 +1,6 @@
 git clone reponame
+
+git status
+- tells in which branch you are in. and any chaneges you have. if no changes then it says you are up to date.
+
+
